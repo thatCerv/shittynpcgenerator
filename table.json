@@ -1,0 +1,10 @@
+{
+	"Firstname": {
+		"Male": ["Adolf", "Albert", "Alen"],
+		"Female": ["Adleta", "Albina", "Amelia"]
+		},
+	"Surname": ["Adamcik", "Ademec", "Adamovsky"],
+	"Title": ["the Blessed", "the Brave", "the Foolish"],
+	"Place": ["Prague", "Brno", "Ostrava"],
+	"Career": ["Apothecary", "Engineer", "Lawyer", "Nun", "Physician", "Priest", "Scholar", "Wizard"]
+}
